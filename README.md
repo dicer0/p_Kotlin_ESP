@@ -11,4 +11,4 @@ And this specific repository contains documentation about the Kotlin programming
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/11/p_Kotlin.png)](https://dicer0.com/#skills)
+[![Kotlin](http://dicer0.com/wp-content/uploads/2023/11/p_Kotlin.png)](https://dicer0.com/#skills)
